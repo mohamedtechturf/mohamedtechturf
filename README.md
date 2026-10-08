@@ -80,7 +80,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedtechturf)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mohamedtechturf/)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mohamedtechturf)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
