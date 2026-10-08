@@ -26,7 +26,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
