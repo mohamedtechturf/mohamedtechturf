@@ -78,7 +78,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 
 ## 📫 Let's Connect
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/UcfxAq6HHn)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedtechturf)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/mohamedtechturf/)
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)
