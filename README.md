@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=53F7A3&width=435&lines=Systems+%26+Systems+Tools+Engineer;Creator+of+L%2B%2B+Programming+Language;Creator+of+Netpreter+Framework;Networking+%26+OS+Architecture+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=53F7A3&width=435&lines=Systems+%26+Systems+Tools+Engineer;Creator+of+L%2B%2B+Programming+Language;Creator+of+Netpreter+Framework;Networking+%26+OS+Architecture+Expert&v=1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -64,8 +64,8 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedtechturf&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtechturf&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedtechturf&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtechturf&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
