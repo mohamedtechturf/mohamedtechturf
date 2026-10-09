@@ -31,7 +31,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 ### Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Harvard](https://custom-icon-badges.demolab.com/badge/L++-00824c?style=flat&logo=lpp)](#)
+[![L++](https://custom-icon-badges.demolab.com/badge/L++-00824c?style=flat&logo=lpp)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
