@@ -78,6 +78,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 [![Future Academy](https://custom-icon-badges.demolab.com/badge/Future%20Academy-029900?style=flat&logo=fa)](#)
 [![Harvard](https://custom-icon-badges.demolab.com/badge/Harvard-c50101?style=flat&logo=harvard)](#)
 [![Microsoft](https://custom-icon-badges.demolab.com/badge/Microsoft-00a1f1?style=flat&logo=ms)](#)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-C74634?logo=oracle&logoColor=white)](#)
 
 
 ## 📫 Let's Connect
