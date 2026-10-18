@@ -38,7 +38,6 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 
 ### Platforms & Frameworks
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
@@ -57,7 +56,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 
 * **[L++ Programming Language](https://github.com/mohamedtechturf/lpp)**: A compiled systems language in development, designed for high performance and assisted memory management.
 * **[Netpreter](https://github.com/mohamedtechturf/Netpreter)**: A network auditing framework written mainly in C, featuring a unified CLI and a web-based UI.
-* **[Bluepreter](https://github.com/mohamedtechturf/Bluepreter)**: A successor to Netpreter, A bluetooth auditing framework written mainly in C, featuring a unified CLI and a web-based UI.
+* **[Bluepreter](https://github.com/mohamedtechturf/Bluepreter)**: The successor to Netpreter, A bluetooth auditing framework written mainly in C, featuring a unified CLI and a web-based UI.
 
 
 ---
@@ -78,8 +77,9 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 [![Future Academy](https://custom-icon-badges.demolab.com/badge/Future%20Academy-029900?style=flat&logo=fa)](#)
 [![Harvard](https://custom-icon-badges.demolab.com/badge/Harvard-c50101?style=flat&logo=harvard)](#)
 [![Microsoft](https://custom-icon-badges.demolab.com/badge/Microsoft-00a1f1?style=flat&logo=ms)](#)
-[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-C74634?logo=oracle&logoColor=white)](#)
-[![Huawei](https://custom-icon-badges.demolab.com/badge/Huawei-c50101?style=flat&logo=huawei)](#)
+<!-- [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-C74634?logo=oracle&logoColor=white)](#) --> 
+<!-- [![Huawei](https://custom-icon-badges.demolab.com/badge/Huawei-c50101?style=flat&logo=huawei)](#) -->
+
 
 ## 📫 Let's Connect
 
