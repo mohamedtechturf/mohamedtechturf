@@ -78,7 +78,7 @@ I am a Systems & Systems Tools Engineer with a deep passion for networking, OS a
 [![Harvard](https://custom-icon-badges.demolab.com/badge/Harvard-c50101?style=flat&logo=harvard)](#)
 [![Microsoft](https://custom-icon-badges.demolab.com/badge/Microsoft-00a1f1?style=flat&logo=ms)](#)
 <!-- [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-C74634?logo=oracle&logoColor=white)](#) --> 
-<!-- [![Huawei](https://custom-icon-badges.demolab.com/badge/Huawei-c50101?style=flat&logo=huawei)](#) -->
+[![Huawei](https://custom-icon-badges.demolab.com/badge/Huawei-c50101?style=flat&logo=huawei)](#)
 
 
 ## 📫 Let's Connect
